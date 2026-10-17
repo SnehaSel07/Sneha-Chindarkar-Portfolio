@@ -1,6 +1,6 @@
 # Sneha-Chindarkar-Portfolio
 
-# Sneha Chindarkar | QA Engineer Portfolio
+# Sneha Chindarkar | QA Engineer
 
 **Test Analyst | GenAI & LLM Testing | Mobile QA | Test Automation**
 
