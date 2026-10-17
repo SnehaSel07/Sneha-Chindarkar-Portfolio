@@ -61,7 +61,7 @@ I am building hands-on automation projects to strengthen my skills in Python and
 
 ### Playwright Automation with Python
 
-**Repository:** [Playwright_Scripts](https://github.com/YOUR-GITHUB-USERNAME/Playwright_Scripts)
+**Repository:** [Playwright_Scripts](https://github.com/SnehaSel07/Playwright_Scripts)
 
 Planned and ongoing work:
 
@@ -109,8 +109,8 @@ Planned and ongoing work:
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/snehachindarkar-72787060)
-- **GitHub:** [My GitHub Profile](https://github.com/YOUR-GITHUB-USERNAME)
+- **LinkedIn:** https://www.linkedin.com/in/snehachindarkar-72787060 
+- **GitHub:** https://github.com/SnehaSel07/Playwright_Scripts
 - **Email:** chindarkarsneha@gmail.com
 
 ---
