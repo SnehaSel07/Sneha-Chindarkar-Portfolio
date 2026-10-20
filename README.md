@@ -1,6 +1,6 @@
 # Sneha Chindarkar | QA Engineer
 
-**Test Analyst | GenAI & LLM Testing | Mobile QA | Test Automation**
+**Test Analyst | GenAI & LLM Testing | Mobile QA | Test Automation (Playwright)**
 
 Welcome to my QA Engineering portfolio! I am a Test Analyst with 4+ years of experience in software testing, specializing in mobile application testing, GenAI/LLM validation, API testing, and quality assurance.
 
@@ -63,7 +63,7 @@ I am building hands-on automation projects to strengthen my skills in Python and
 
 **Repository:** [Playwright_Scripts](https://github.com/SnehaSel07/Playwright_Scripts)
 
-Planned and ongoing work:
+Planned and ongoing work: [Reference Source](https://playwright.dev/python/docs/)
 
 - Browser automation using Playwright
 - Locators and element interactions
