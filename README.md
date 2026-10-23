@@ -61,7 +61,7 @@ I am building hands-on automation projects to strengthen my skills in Python and
 
 ### Playwright Automation with Python
 
-**Repository:** [Playwright_Scripts](https://github.com/SnehaSel07/Playwright_Scripts)
+**Repository:** [Playwright_Scripts](https://github.com/SnehaSel07/)
 
 Planned and ongoing work: [Reference Source](https://playwright.dev/)
 
